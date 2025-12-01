@@ -2,7 +2,8 @@
 
 import React from "react";
 
-export default function Page(): JSX.Element {
+export default function Page() {
+
   const projects = [
     {
       title: "Hunny Web App",
